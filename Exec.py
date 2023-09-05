@@ -1,7 +1,7 @@
 import json
 import hashlib
 import requests
-#import random
+import random
 
 # host地址
 host = "https://app-home.viomi.com.cn"
