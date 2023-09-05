@@ -113,10 +113,10 @@ if __name__ == "__main__":
     # register(uri_register, data_account)
 
     # homeMapPage
-    # getRequest(host, uri_family, data_family)
+    getRequest(host, uri_family, data_family)
 
     # deviceList
-    getRequest(host, uri_device_list)
+    # getRequest(host, uri_device_list)
 
     # deviceListOld
     # getRequest(host, uri_device_list_old, data_family)
